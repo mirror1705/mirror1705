@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirror1705
 - 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning HTML and Python
+- 🌱 I’m currently learning web development
 
 
 <!---
